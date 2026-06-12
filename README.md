@@ -1,6 +1,6 @@
 # Digital Logic Design Lab
 
-This repository contains Digital Logic Design Lab experiments, truth tables, K-Map simplifications, Boolean expressions, and circuit implementations.
+This repository contains Digital Logic Design Lab experiments, truth tables, K-Map simplifications, Boolean expressions, and circuit implementations [Logisim].
 
 ## 📚 Course Information
 
